@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/react-homework/static/js/runtime~main.81be3e5a.js"
   },
   {
-    "revision": "0c5c1f1e98ff584f96aa",
-    "url": "/react-homework/static/js/main.0c5c1f1e.chunk.js"
+    "revision": "2dbbe3b897200496ece6",
+    "url": "/react-homework/static/js/main.2dbbe3b8.chunk.js"
   },
   {
     "revision": "57f7ace45ab017c521ad",
     "url": "/react-homework/static/js/1.57f7ace4.chunk.js"
   },
   {
-    "revision": "0c5c1f1e98ff584f96aa",
-    "url": "/react-homework/static/css/main.9c269a8c.chunk.css"
+    "revision": "2dbbe3b897200496ece6",
+    "url": "/react-homework/static/css/main.dfaf640c.chunk.css"
   },
   {
-    "revision": "b7f29284fecf7bf3afa49cc18cf5db3a",
+    "revision": "062f169de6b2a4c52609371104ef39fd",
     "url": "/react-homework/index.html"
   }
 ];
