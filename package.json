@@ -1,5 +1,5 @@
 {
-  "homepage": "https://josez1984.github.io/react-homework/",
+  "homepage": "https://josez1984.github.io/react-homework",
   "name": "react-homework",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
